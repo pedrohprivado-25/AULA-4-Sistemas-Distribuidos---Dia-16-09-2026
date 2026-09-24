@@ -1,6 +1,4 @@
-Claro. Montei o README usando **o que realmente foi feito na sua Aula 4**, sem inventar etapas. Considerei a atividade prática, os três desafios, o teste com o tablet e as perguntas finais. A aula trabalhou RPC como uma forma de comunicação de mais alto nível em comparação aos sockets. 
 
-Deixei com uma escrita mais natural, como se fosse você apresentando no seu GitHub, mas ainda organizada e profissional. E já deixei **tudo em um único bloco** para você copiar direto:
 
 ````markdown
 # Aula 4 — Comunicação de Alto Nível: RPC
