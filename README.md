@@ -1,6 +1,3 @@
-
-
-````markdown
 # Aula 4 — Comunicação de Alto Nível: RPC
 
 Nesta aula de Sistemas Distribuídos, estudamos o conceito de RPC (Remote Procedure Call), ou Chamada de Procedimento Remoto.
@@ -48,7 +45,6 @@ Foram utilizados os seguintes testes:
 10 + 5 = 15
 10 - 5 = 5
 10 x 5 = 50
-````
 
 Os resultados foram retornados corretamente pelo servidor.
 
